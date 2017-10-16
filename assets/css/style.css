@@ -1,0 +1,65 @@
+body{
+	background-image: url("http://www.planwallpaper.com/static/images/Fall-Nature-Background-Pictures.jpg")
+}
+
+h1{
+	background-color: orange;
+	color: white;
+	clear: both;
+	display: inline;
+	padding: 10px;
+	margin-bottom: 20px;
+	border: solid 3px #ddd;
+	font-size: 20px;
+}
+
+#wrapper {
+	width: 100%;
+	max-width:960px;
+	margin: 0 auto;
+}
+
+#instructions {
+	background-color: white;
+	width: 50%;
+	clear:both;
+	padding: 15px;
+	margin-top: 20px;
+	border: solid 1px #ddd;
+}
+
+#guessingNumber {
+	background-color: green;
+	float: left;
+	display: inline-block;
+	padding: 10px;
+	margin-top: 20px;
+	border: solid 1px #ddd;
+}
+
+#scoreboard {
+	background-color: #03A9F4;
+	display: inline-block;
+	padding: 15px 20px 10px 15px;
+	margin-top: 20px;
+	margin-left: 20px;
+	border: solid 1px #ddd;
+
+}
+
+.crystalImage {
+	height: 111px;
+	border: solid 1px #272525;
+	margin-left: 10px
+}
+
+#totalScore {
+	margin-bottom: 50px;
+}
+
+#yts {
+	background: #009688;
+	display: inline;
+	padding: 20px;
+	border: solid 1px #ddd;
+}
